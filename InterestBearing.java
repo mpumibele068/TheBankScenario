@@ -1,0 +1,3 @@
+interface InterestBearing {
+    void applyInterest();
+}
